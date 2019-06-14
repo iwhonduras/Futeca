@@ -1,0 +1,16 @@
+.navbar{
+    /* position: fixed; */
+    width: 100%;
+    z-index: 1;
+  }
+  .nav-link{
+    text-align: center;
+  }
+  .mr-auto{
+    margin-right: 0px;
+  }
+  .logo-secciones{
+    width: 110%;
+    padding: 7%,0,0,0;
+    margin-right: 100%;
+  }

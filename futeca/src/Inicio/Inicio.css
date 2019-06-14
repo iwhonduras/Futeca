@@ -1,0 +1,29 @@
+.container{
+    padding-top: 1%;
+}
+.logo img{
+    width: 70%;
+    padding: 7%,0,0,0;
+    margin-right: 100%;
+}
+.search .form-inline{
+    flex-flow:nowrap!important;
+    padding-top:5%;
+}
+.fab{
+    font-size: 170%;
+    padding-top: 7%;
+    padding-left: 15%;
+    color:gray;
+}
+.video{
+    padding-top: 2%;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+.sticky + .content {
+    padding-top: 102px;
+  }
