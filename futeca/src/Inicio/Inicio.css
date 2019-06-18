@@ -22,8 +22,29 @@
 .sticky {
     position: fixed;
     top: 0;
+    left: 0;
     width: 100%;
-  }
+}
 .sticky + .content {
-    padding-top: 102px;
-  }
+    padding-top: 155px;
+}
+.content{
+    padding-top: 155px;
+}
+.controls-top{
+    font-size: -webkit-xxx-large;
+    padding-left: 85%;
+
+}
+.btn-floating{
+    padding-right: 20%;
+}
+.patrocinadores h2{
+    padding-top: 30%;
+    padding-left: 50%;
+    font-weight: 900;
+}
+.img-brand img{
+    padding-left: 10%;
+    padding-bottom: 5%;
+}

@@ -17,11 +17,11 @@ class NavBar extends Component{
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
                   <Nav.Link to="/futeca"><img className="logo-secciones" src={logo} alt="INICIO"/></Nav.Link>
-                  <Nav.Link href="#link"><img className="logo-secciones"  alt="ACERCA DE"/></Nav.Link>
+                  <Nav.Link href="#link"><img className="logo-secciones"  src={logo} alt="ACERCA DE"/></Nav.Link>
                   <Nav.Link href="#link"><img className="logo-secciones" src={logoSede} alt="ALQUILER"/></Nav.Link>
                   <Nav.Link href="#link"><img className="logo-secciones" src={logoAcademia} alt="ACADEMIA"/></Nav.Link>
                   <Nav.Link href="#link"><img className="logo-secciones" src={logoCampeonato} alt="CAMPEONATOS"/></Nav.Link>
-                  <Nav.Link href="#link"><img className="logo-secciones"  alt="CONTÁCTO"/></Nav.Link>
+                  <Nav.Link href="#link"><img className="logo-secciones-final"  src={logo} alt="CONTÁCTO"/></Nav.Link>
                 </Nav>
               </Navbar.Collapse>
             </Navbar>
