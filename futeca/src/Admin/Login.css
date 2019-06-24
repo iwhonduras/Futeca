@@ -1,0 +1,10 @@
+.logo{
+    width: 30%;
+    height: 30%;
+    padding-top: 5%;
+}
+.formulario{
+    padding: 5% 10% 5% 10%;
+    margin: 0% 10% 10% 10%;
+    border: 5px double black ;
+}
