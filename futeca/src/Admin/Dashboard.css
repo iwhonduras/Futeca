@@ -1,5 +1,31 @@
-.navbar-brand img{
-    width: 30%;
-    height: 30%;
-    margin-left: -80%
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.nav-link{
+  text-align: center;
+}
+.mr-auto{
+  margin-right: 0px;
+}
+.logo-secciones{
+  width: 110%;
+  padding: 7%,0,0,0;
+  margin-right: 100%;
+}
+.logo-secciones-final{
+  width: 110%;
+  padding: 7%,0,0,0;
+}
+.show .mr-auto.navbar-nav{
+  width: 40%;
+  margin-right: 0%;
+}
+.tituloDinamico{
+    padding-left: 25%;
+    padding-top: 12%;
+    padding-bottom: 5%;
 }
